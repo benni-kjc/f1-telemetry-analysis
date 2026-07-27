@@ -27,7 +27,7 @@ source venv/bin/activate
 pip install fastf1 plotly seaborn notebook ipykernel
 ```
 
-Open `projekt1_telemetrie.ipynb` in VS Code and run all cells.
+Open `monza_2024_qualifying_telemtry_analysis.ipynb` in VS Code and run all cells.
 
 ## About
 
